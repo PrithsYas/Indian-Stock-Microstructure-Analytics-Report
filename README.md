@@ -28,11 +28,16 @@ The analysis highlights that volatility alone is insufficient to assess executio
 
 ## Repository Structure
 Indian-Stock-Microstructure/
-├── sql/ # SQL schemas and analytics logic
-├── python/ # Data ingestion scripts
-├── notebooks/ # Exploratory data analysis
-├── report/ # Final analytical report
-└── data/ # Data folders (ignored in Git)
+
+├── sql/ # SQL schemas and analytics logic.
+
+├── python/ # Data ingestion scripts.
+
+├── notebooks/ # Exploratory data analysis.
+
+├── report/ # Final analytical report.
+
+└── data/ # Data folders (ignored in Git).
 
 ## Tools
 Python, Pandas, PostgreSQL, SQL
